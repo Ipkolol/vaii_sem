@@ -1,12 +1,12 @@
-#footer{
-    background-color: rgb(32,32,32);
+.card-body{
+    background-color: rgba(225,225,225,0.5);
 }
 
-#footer p{
-    color: aliceblue;
-    margin-top: 10px;
+.card-body h5{
+    color: rgb(0,0,0);
 }
 
-#footer img{
-    margin-top: 3px;
+.card {
+    width: 20rem;
+    height: 24rem;
 }

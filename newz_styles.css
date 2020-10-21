@@ -1,0 +1,35 @@
+.card-body {
+    background-color: rgba(225,225,225,0.3);
+}
+
+.card-body h5{
+    color: rgb(0,0,0);
+}
+
+.card-body p{
+    color: rgb(0,0,0);
+}
+
+.cas {
+    font-size: 10px;
+    font-weight: bold;
+    color: rgb(135,135,135);
+}
+
+#light_newz a{
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(0,0,0);
+}
+
+#pop_newz a{
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(0,0,0);
+}
+
+#pop_newz a{
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(0,0,0);
+}
