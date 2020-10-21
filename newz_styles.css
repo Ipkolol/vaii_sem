@@ -3,6 +3,17 @@
 }
 
 .card-body h5{
+    font-weight: bold;
+    color: rgb(0,0,0);
+}
+
+.card-header h4{
+    font-weight: bold;
+    color: rgb(0,0,0);
+}
+
+.card-body h4{
+    font-weight: bold;
     color: rgb(0,0,0);
 }
 
