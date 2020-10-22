@@ -44,5 +44,28 @@
 }
 
 #light_newz a:hover{
-    color: rgb(100,100,100);
+    color: rgb(255,255,255);
+    background-color: rgba(0,0,0,0.5);
+}
+
+#pop_newz li {
+    text-align: left;
+    display: flex;
+    padding-bottom: 0.2rem;
+    padding-right: 2rem;
+}
+
+#pop_newz li:first-child >a:hover{
+    background-color: rgb(255,215,0);
+    color: rgb(255,255,255);
+}
+
+#pop_newz li:nth-child(2)>a:hover{
+    background-color: rgb(192,192,192);
+    color: rgb(255,255,255);
+}
+
+#pop_newz li:nth-child(3)>a:hover{
+    background-color: rgb(176,141,87);
+    color: rgb(255,255,255);
 }
